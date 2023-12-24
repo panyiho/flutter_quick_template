@@ -1,0 +1,8 @@
+{
+    "network":{
+        "network_error": "Network abnormality, please check the network connection status.",
+        "system_error": "The system is busy, please try again later!",
+        "net_disconnect": "Network not connected, please check and try again.",
+        "request_cancel":"request canceled"
+    }
+}
