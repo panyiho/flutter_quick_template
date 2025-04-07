@@ -48,3 +48,6 @@ app.*.map.json
 /.dart_tool
 .history
 pubspec.lock
+
+# FVM Version Cache
+.fvm/

@@ -87,6 +87,9 @@ class ApiException extends CustomDioError {
       String? message}) {
     throw UnimplementedError();
   }
+
+  @override
+  DioExceptionReadableStringBuilder? stringBuilder;
 }
 
 class BadRequestException extends ApiException {

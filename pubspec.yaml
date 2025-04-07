@@ -39,7 +39,7 @@ dependencies:
   dio:
   logger:
   retrofit: '>=4.0.0 <5.0.0'
-  json_annotation: ^4.8.1
+  json_annotation: ^4.9.0
   cached_network_image:
   flutter_smart_dialog:
   styled_widget:
@@ -59,9 +59,9 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-  retrofit_generator: '>=7.0.0 <8.0.0'  
+  retrofit_generator: '>=8.0.0 <10.0.0'
   build_runner: '>=2.3.0 <4.0.0'
-  json_serializable: ^6.6.2
+  json_serializable: ^6.9.0
   getx_route_generator:
     #  path: ./getx_route_generator/getx_route_generator
 
