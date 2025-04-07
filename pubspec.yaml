@@ -45,8 +45,7 @@ dependencies:
   styled_widget:
   pretty_dio_logger:
   getx_route_annotations:
-    # path: ./getx_route_generator
-  # mmkv:
+  mmkv:
 
   
 dev_dependencies:
